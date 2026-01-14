@@ -1,2 +1,2 @@
 # HNIT_Robot
-my nao code
+Python 2.7 + sdk
